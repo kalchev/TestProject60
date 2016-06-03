@@ -7,7 +7,6 @@ namespace TestProject60
 {
     public class Class1
     {
-         // test
         private void Test()
         {
             // do stuff
